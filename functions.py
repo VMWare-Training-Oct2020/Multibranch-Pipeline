@@ -1,5 +1,5 @@
 def add_two_values(value1, value2):
-    """ Adds two integers now. Sample Multi Pipeline
+    """ Adds two integers now. Sample Multi Pipeline v2
 
     Arguments:
     value1: first integer value e.g. 15
