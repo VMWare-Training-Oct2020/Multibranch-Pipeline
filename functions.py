@@ -28,6 +28,7 @@ def get_full_name(firstname, lastname):
     lastname: Last name e.g. Doe
     """
     return lastname + ", " + firstname
+    return lastname + ", " + firstname + " is a VMware SDK Developer "
 
 def main():
     add_multiple_values(1,2,3,4,5)
