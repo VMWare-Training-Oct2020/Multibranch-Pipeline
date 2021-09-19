@@ -1,6 +1,6 @@
 node('master') {
     stage("Fetch Source Code") {
-        git 'https://github.com/VMWare-Training-Oct2020/Multibranch-Pipeline.git'
+        git 'https://github.com/atingupta2005/Multibranch-Pipeline.git'
     }
     
     dir('') {
